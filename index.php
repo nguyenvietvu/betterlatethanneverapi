@@ -1,3 +1,3 @@
 <?php
-echo "test api"
+echo "hello world"
 ?>
